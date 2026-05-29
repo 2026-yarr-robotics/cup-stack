@@ -1,0 +1,13 @@
+# ROS 2 colcon build artifacts
+build/
+install/
+log/
+
+# Binary installers
+*.deb
+
+# Claude Code settings
+.claude/
+
+# OS
+.DS_Store
