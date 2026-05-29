@@ -10,3 +10,6 @@
 [submodule "fallen-cup-recovery"]
 	path = fallen-cup-recovery
 	url = https://github.com/2026-yarr-robotics/fallen-cup-recovery
+[submodule "yarr-robust-speed-stack"]
+	path = yarr-robust-speed-stack
+	url = https://github.com/2026-yarr-robotics/yarr-robust-speed-stack
